@@ -1,0 +1,17 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.red{
+    background: rgba(0, 242, 255, 0.199);
+    height: 300px;
+    color: black;
+
+}
+.blue{
+    color: aqua;
+    background-color: black;
+}
